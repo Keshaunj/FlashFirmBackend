@@ -1,4 +1,4 @@
-# **Flash Firm Decentralized Finance (DeFi)- FRONTEND**
+# **Flash Firm Decentralized Finance (DeFi)- BACKEND**
 
 This is the **backend** for **Flash Firm DEX**, a **non-custodial Solana wallet** that enables users to securely send and receive SOL and SPL tokens. Built with **Express.js**, **MongoDB**, and **JWT authentication**, this backend provides **full CRUD operations** for user profiles, transactions, and wallet interactions.
 
