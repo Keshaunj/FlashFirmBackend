@@ -26,3 +26,6 @@ dist-ssr
 node_modules
 wallet-tester.md
 .vercel
+
+# Local Netlify folder
+.netlify
