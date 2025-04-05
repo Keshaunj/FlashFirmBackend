@@ -127,6 +127,9 @@ app.post('/auth/send', async (req, res) => {
   }
 });
 
+app.get('/', (req, res) => {
+  res.send('🚀 Solana Wallet Backend is Live!');
+});
 
 
 
